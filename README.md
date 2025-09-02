@@ -1,6 +1,6 @@
-# Custom Web Applications
+# Production Applications
 
-All applications built from scratch using Simtheory. No templates. 100% custom work.
+Live, deployed web applications showcasing complex functionality and professional UI/UX.
 
 ## Live Applications
 
