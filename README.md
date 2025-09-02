@@ -1,6 +1,6 @@
 # Production Applications
 
-Live, deployed web applications showcasing complex functionality and professional UI/UX.
+**Needed better tools. So I built them. Now you can use them too.**
 
 ## Live Applications
 
@@ -25,6 +25,5 @@ Financial tracking application with expense categorization.
 
 ---
 
-**Built with:** Simtheory AI Platform  
 **Developer:** Kyle Coleman  
 **Contact:** https://www.linkedin.com/in/kyledcoleman/
